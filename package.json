@@ -1,0 +1,12 @@
+{
+    "name": "com.unity.ironpython", 
+    "displayName": "Unity Python", 
+    "description": "contains iron python implementation for the unity editor", 
+    "version": "1.0.0",
+    "keywords": [
+        "python"
+    ],
+    "unity": "2019.3", 
+    "dependencies": {
+    }
+}
